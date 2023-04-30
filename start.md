@@ -2,6 +2,7 @@
 title: The Beginning
 author: McDonalds
 version: 1.3
+tags: [king, oc, true]
 ---
 
 # Start
