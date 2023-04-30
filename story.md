@@ -2,6 +2,7 @@
 title: Quest of Time
 author: The Author
 version: 1.0
+tags: [king, quest, mystery]
 ---
 
 # Chapter 1
